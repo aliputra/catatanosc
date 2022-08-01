@@ -1,0 +1,3 @@
+search di google
+. server world
+. konfigurasi (nama service) debian 9	= ex : konfigurasi web server debian 9
